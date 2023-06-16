@@ -1,3 +1,10 @@
+Setup:
+
+```shell
+poetry install
+poetry run python app.py
+```
+
 Bundle:
 
 ```
