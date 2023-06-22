@@ -1,4 +1,4 @@
-import click
+#!/usr/bin/env python3
 import os
 import webview
 import sys
@@ -16,10 +16,9 @@ def hello_world():
     return "<p>Hello, World!</p>"
 
 
-@app.cli.command("serve")
-def serve():
+def main():
     webview.create_window('Hello world', app)
     webview.start()
 
 if __name__ == "__main__":
-    serve()
+    main()
