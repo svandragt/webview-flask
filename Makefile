@@ -8,3 +8,7 @@ build:
 
 run-build: build
 	dist/webview_flask.pex
+
+publish:
+	poetry build
+	poetry publish
