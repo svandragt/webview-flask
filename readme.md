@@ -12,7 +12,7 @@ The stack is currently:
 ## Installation
 
 1. Build the executable (see below)
-2. Install using pipx: `pipx install webview_flask`
+2. Install using pipx: `pipx install webview-flask`
 
 
 # Contributing
