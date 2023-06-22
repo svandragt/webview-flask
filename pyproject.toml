@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "webview_flask"
-version = "0.1.0"
+version = "0.1.1"
 description = "flask app with webview"
 authors = ["Sander van Dragt <sander@vandragt.com>"]
 readme = "readme.md"
