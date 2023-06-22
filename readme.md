@@ -9,6 +9,11 @@ The stack is currently:
 - pex: packaging
 - makefile: build configuration
 
+## Installation
+
+1. Build the executable (see below)
+2. Install using pipx: `pipx install webview_flask`
+
 
 # Contributing
 
