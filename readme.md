@@ -9,7 +9,7 @@ The stack is currently:
 - pex: packaging
 - makefile: build configuration
 
-This produces a 4mb executable, runnable by Python 3.8 and up.
+This produces a 4mb executable, runnable by Python 3.8 and up. Tested on ubuntu 22.04.
 
 ![image](https://github.com/svandragt/webview-flask/assets/594871/1a1c452a-8ee8-4954-a6ed-f9b019333008)
 
