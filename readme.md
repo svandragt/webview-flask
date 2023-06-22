@@ -35,5 +35,5 @@ poetry run webview-flask
 
 Makefile:
 
-- `build`: use `pex` to build a single executable (`dist/webview_flask`) with Python 3.8-3.11 as its only dependency. Flask requires 3.8.
-- `run-build`: run it.
+- `make build`: use `pex` to build a single executable (`dist/webview_flask`) with Python 3.8-3.11 as its only dependency. Flask requires 3.8.
+- `make run-build`: run it.
