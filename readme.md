@@ -1,4 +1,4 @@
-Proof of concept using web technologies for UI, and python to produce a desktop application.
+Proof of concept using web technologies for UI, and python to produce a desktop application. 
 
 The stack is currently:
 
@@ -8,6 +8,11 @@ The stack is currently:
 - flask: local server and web framework
 - pex: packaging
 - makefile: build configuration
+
+This produces a 4mb executable.
+
+![image](https://github.com/svandragt/webview-flask/assets/594871/1a1c452a-8ee8-4954-a6ed-f9b019333008)
+
 
 ## Installation
 
