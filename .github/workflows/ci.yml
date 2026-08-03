@@ -18,7 +18,7 @@ jobs:
             libgirepository1.0-dev libcairo2-dev pkg-config \
             gir1.2-gtk-3.0 gir1.2-webkit2-4.1 python3-dev gcc
 
-      - uses: astral-sh/setup-uv@v6
+      - uses: astral-sh/setup-uv@v7
         with:
           python-version: "3.12"
 
