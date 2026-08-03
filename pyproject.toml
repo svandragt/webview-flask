@@ -12,7 +12,7 @@ pywebview = "^4.1"
 pygobject = "^3.44.1"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.3.0"
+black = ">=23.3,<25.0"
 vext = "^0.7.6"
 vext-gi = "^0.7.4"
 pex = "^2.1.137"
