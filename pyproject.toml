@@ -7,7 +7,7 @@ readme = "readme.md"
 
 [tool.poetry.dependencies]
 python=">=3.8.0,<3.12"
-Flask = "^2.3.2"
+Flask = ">=2.3.2,<4.0.0"
 pywebview = "^4.1"
 pygobject = "^3.44.1"
 
