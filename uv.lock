@@ -278,12 +278,12 @@ wheels = [
 
 [[package]]
 name = "pex"
-version = "2.99.0"
+version = "2.100.4"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/4b/0d/f67ccb00ab36a92ad371a8a16e1336e059bab8957e4509dcb254fbd7f268/pex-2.99.0.tar.gz", hash = "sha256:d69b459ce706488fefdea5ada09310c547cce4475bea5cbab37de35e114bd888", size = 5324718, upload-time = "2026-07-30T18:19:50.888Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ea/f4/08cd4f11840eae7274c1ebad4e63d12deb895f2d2391fda20fce54f03e87/pex-2.100.4.tar.gz", hash = "sha256:467cb79f2996eb3bb1001263585e7f7b4ad09e7c85e4a5c90288fd1b8c046a30", size = 5446965, upload-time = "2026-08-13T13:30:28.921Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/66/c0/641409444574c3b04acfa89a669e4d2668d7a32ddc8f3128c804e24b3ca4/pex-2.99.0-py2.py35.py36.py37.py38.py39.py310.py311-none-any.whl", hash = "sha256:24e26cd02c70e1957b6d3e34bd5c5fde79941d1c2adbce6c5d74f93bea66056b", size = 3991082, upload-time = "2026-07-30T18:19:47.489Z" },
-    { url = "https://files.pythonhosted.org/packages/32/0c/575fa8296a87de7a42dada1fb51d1f4b0498704ca3ed9256a8c48f1bc49e/pex-2.99.0-py3.py312-none-any.whl", hash = "sha256:05776a6b0e5dc798c9a9c466c6a867b0e99524811318179c9868789256c58627", size = 1807942, upload-time = "2026-07-30T18:19:49.414Z" },
+    { url = "https://files.pythonhosted.org/packages/cc/58/61386e347b5ba94a4e7b5166f0c018366f1a17ed42f13840b8fa6fb8cd22/pex-2.100.4-py2.py35.py36.py37.py38.py39.py310.py311-none-any.whl", hash = "sha256:6759d590f908ebb94627b659b70d2641b3c86a5289dba4d42ac21805408a12ab", size = 4126430, upload-time = "2026-08-13T13:30:25.134Z" },
+    { url = "https://files.pythonhosted.org/packages/27/c1/5129575188d78c3226e6ce58799534d163eed4ce2e92285c49f1ae7e546d/pex-2.100.4-py3.py312-none-any.whl", hash = "sha256:0ae06ad779f79ad8fd2bf3a6b009af5f29358e0fc398c79ddf401242b54cf3d1", size = 1943286, upload-time = "2026-08-13T13:30:27.381Z" },
 ]
 
 [[package]]
