@@ -1,3 +1,5 @@
+> **Archived.** This project is replaced by [hello-browser](https://github.com/svandragt/hello-browser).
+
 Proof of concept using web technologies for UI, and python to produce a desktop application. 
 
 The stack is currently:
